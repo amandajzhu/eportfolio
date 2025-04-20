@@ -10,7 +10,7 @@ document.body.prepend(template.content);
 
 template.innerHTML = `
     <div class="footer">
-        <p>Amanda Zhu, 2025-04-19</p>
+        <p>Amanda Zhu, 2025-04-20</p>
     </div>
 `;
 
