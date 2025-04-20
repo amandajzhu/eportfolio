@@ -162,3 +162,12 @@ hr {
         width: 85%;
     }
 }
+
+@media (max-height: 700px) {
+    .header {
+        height: 150vh;
+    }
+    .artifact {
+        height: 50%;
+    }
+}
